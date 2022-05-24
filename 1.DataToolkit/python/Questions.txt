@@ -1,0 +1,3 @@
+I understand quantiles, quartiles, IQR, fences, outliers
+If we assume 100 datapoints and these are sorted in ascending order. The points that fall at the 25th, 50th, 75th and 100th positions will give the quartiles. We can also get the points at any required quantile (e.g. 60, 98). 
+Question: The length of the whiskers and box size can vary across categories. How does this knowledge (of the length of the whiskers and box size) help in analysis? How does comparing these values across various categories (on x-axis) help in any analysis? Can someone explain this in the context of a real-life analysis/example?
